@@ -6,7 +6,7 @@
 
 ## A
 
-- [Aakarsh B](https://github.com/Aakarsh-B)
+- [Sample](https://www.google.com)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Aakarsh.png">
